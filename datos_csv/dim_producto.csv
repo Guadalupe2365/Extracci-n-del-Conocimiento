@@ -1,0 +1,51 @@
+nombre,categoria,subcategoria,precio_base,proveedor
+iPhone 14,Electrónica,Smartphones,24618.51,TechSupply SA
+Samsung S23,Electrónica,Smartphones,10121.73,LogiPro México
+Xiaomi 13,Electrónica,Smartphones,5399.91,TechSupply SA
+Motorola G84,Electrónica,Smartphones,17952.6,TechSupply SA
+Huawei P50,Electrónica,Smartphones,13382.07,LogiPro México
+MacBook Air,Electrónica,Laptops,17421.94,DistribuidoraMX
+Dell XPS,Electrónica,Laptops,9614.16,TechSupply SA
+HP Pavilion,Electrónica,Laptops,23762.76,ImportExport MX
+Lenovo ThinkPad,Electrónica,Laptops,15880.36,TechSupply SA
+Asus VivoBook,Electrónica,Laptops,18218.05,ImportExport MX
+Camisa Oxford,Ropa,Hombre,1341.74,Mayorista Central
+Pantalón Chino,Ropa,Hombre,916.53,ImportExport MX
+Chamarra Denim,Ropa,Hombre,1452.87,DistribuidoraMX
+Sudadera Fleece,Ropa,Hombre,1138.05,Mayorista Central
+Polo Slim,Ropa,Hombre,1741.7,DistribuidoraMX
+Blusa Seda,Ropa,Mujer,1596.46,ImportExport MX
+Vestido Casual,Ropa,Mujer,1104.28,TechSupply SA
+Jeans Skinny,Ropa,Mujer,864.11,DistribuidoraMX
+Abrigo Lana,Ropa,Mujer,1160.24,LogiPro México
+Top Crop,Ropa,Mujer,1575.65,ImportExport MX
+Agua 1L,Alimentos,Bebidas,170.77,Mayorista Central
+Refresco 600ml,Alimentos,Bebidas,241.34,LogiPro México
+Jugo Natural,Alimentos,Bebidas,173.52,DistribuidoraMX
+Café Molido,Alimentos,Bebidas,235.71,ImportExport MX
+Té Verde,Alimentos,Bebidas,187.68,LogiPro México
+Papas Fritas,Alimentos,Snacks,127.29,DistribuidoraMX
+Galletas Choco,Alimentos,Snacks,240.39,DistribuidoraMX
+Nueces Mix,Alimentos,Snacks,285.2,DistribuidoraMX
+Barra Proteína,Alimentos,Snacks,23.18,DistribuidoraMX
+Fruta Deshidratada,Alimentos,Snacks,344.62,LogiPro México
+Silla Gaming,Hogar,Muebles,15325.33,TechSupply SA
+Mesa Escritorio,Hogar,Muebles,8306.41,LogiPro México
+Estante Madera,Hogar,Muebles,3660.95,Mayorista Central
+Sofá 3 Plazas,Hogar,Muebles,8999.91,DistribuidoraMX
+Cama Queen,Hogar,Muebles,2826.77,TechSupply SA
+Licuadora 700W,Hogar,Cocina,16089.34,TechSupply SA
+Cafetera French,Hogar,Cocina,14055.88,DistribuidoraMX
+Sartén Teflón,Hogar,Cocina,3330.78,LogiPro México
+Juego Cuchillos,Hogar,Cocina,8468.99,LogiPro México
+Olla Express,Hogar,Cocina,4635.73,TechSupply SA
+Mancuernas 10kg,Deportes,Fitness,5531.9,Mayorista Central
+Colchoneta Yoga,Deportes,Fitness,8044.18,LogiPro México
+Banda Resistencia,Deportes,Fitness,7185.88,Mayorista Central
+Cuerda Saltar,Deportes,Fitness,7390.56,LogiPro México
+Guantes Box,Deportes,Fitness,5178.22,LogiPro México
+Bicicleta MTB,Deportes,Outdoor,5406.37,DistribuidoraMX
+Casco Ciclismo,Deportes,Outdoor,8949.5,Mayorista Central
+Mochila Trail,Deportes,Outdoor,5455.83,DistribuidoraMX
+Zapatos Running,Deportes,Outdoor,10094.37,ImportExport MX
+Tent 2 Personas,Deportes,Outdoor,9213.18,LogiPro México
